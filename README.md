@@ -1,12 +1,31 @@
-# React + Vite
+## Features Implemented
+Main Section with headline, subheading, and button
+How It Works section with three clear steps and SVG icons
+Why Choose Us section with bullet points and SVG icons
+Customer Testimonials featuring dummy reviews with names, roles, and companies
+ContactForm with frontend validation and animated submission popup where we get popup on screen once form is submitted
+**Chat App** with hardcoded questions and options to select any questions from hardcoded questions
+Light/Dark mode for user
+**Animations** are implemented using Framer Motion all over the page
+**Mobile responsive** layout as designed to be used on different screen size
+Hosted on Vercel for live URL
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Design Choices
+Clean UI with coherent blue color palette for professional site
+SVG icons are used to maintain a professional look
+Implemented **dark mode toggle** to improve UI for users
+Chatbot designed to provide user assistance with predefined questions
+Form validation and success popup improve UX
+Responsive design prioritized for different screen choices 
 
-Currently, two official plugins are available:
+## Time Spent
+Total time spent on project: **3-4 hours approx**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack Used
+React.js + Vite 
+Tailwind CSS 
+Framer Motion 
+Vercel 
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live URL
+https://softsell-five-flax.vercel.app/
