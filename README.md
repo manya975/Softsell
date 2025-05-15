@@ -29,3 +29,15 @@ Total time spent on project: **3-4 hours approx**
 
 ## Live URL
 https://softsell-five-flax.vercel.app/
+
+## Outputs
+![image](https://github.com/user-attachments/assets/3aa9366a-a56a-44f3-b174-e10ad8fe99b0)
+![image](https://github.com/user-attachments/assets/3c6f7f9f-98ad-49f9-9fb6-f05637016743)
+![image](https://github.com/user-attachments/assets/260a3cae-5431-4d92-8437-cb0d6cd6e327)
+![image](https://github.com/user-attachments/assets/c56a2cc9-ff7e-4b6d-b014-b1b43363f6a0)
+![image](https://github.com/user-attachments/assets/057158d3-74b0-40b0-933d-d11d73c08424)
+
+
+
+
+
